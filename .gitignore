@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Imagenes y html
+*.png
+*.html
+
 # C extensions
 *.so
 
